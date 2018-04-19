@@ -4,12 +4,13 @@ h1  {
 }
 h2  {
   font-style:italic;
-  text-align:center;
   color: teal;
 }
 p   {
-  color:gray
+  color: white
 }
 body{
   background-color: red;
+  font-family: sans-serif;
+  text-align: center;
 }
